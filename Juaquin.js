@@ -11,5 +11,5 @@ function encontrarMayor(a, b, c) {
     return mayor;
   }
   
-  let mayor = encontrarMayor(21, 54, 23);
+  let mayor = encontrarMayor(2, 54, 23);
   console.log("El número mayor es:", mayor);
